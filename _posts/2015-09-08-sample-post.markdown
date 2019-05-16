@@ -17,6 +17,7 @@ ___
 
 ![기본 UI](https://eunhyel.github.io/image/Slot_1 "기본 UI")
 [id]:https://eunhyel.github.io/image/Slot_1
+![기본 UI](https://m.blog.naver.com/minarigirl/220422766108?view=img_2)
 
 
 Example code:
