@@ -1,8 +1,8 @@
 ---
 layout: page
 title: About
-subtitle: Just who the hell you think I am?
-permalink: /about/
+subtitle: ë°˜ê°‘ìŠµë‹ˆë‹¤
+/ì•ˆë…•í•˜ì„¸ìš”/
 ---
 
-Àú´Â ÀÌÀºÇı¶ó°í ÇÕ´Ï´Ù [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+ì•ˆë…•í•˜ì„¸ìš” ì€í˜œì˜ ë¸”ë¡œê·¸ ì…ë‹ˆë‹¤
