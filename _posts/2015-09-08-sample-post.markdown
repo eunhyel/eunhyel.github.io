@@ -16,6 +16,7 @@ ___
 
 
 ![기본 UI](https://eunhyel.github.io/image/Slot_1 "기본 UI")
+[id]:https://eunhyel.github.io/image/Slot_1
 
 
 Example code:
