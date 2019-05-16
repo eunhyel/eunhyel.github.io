@@ -15,9 +15,7 @@ ___
                   보상 아이콘 및 아이템 이름 뿌려줌.
 
 
-![기본 UI](https://eunhyel.github.io/image/Slot_1 "기본 UI")
-[id]:https://eunhyel.github.io/image/Slot_1
-![기본 UI](https://m.blog.naver.com/minarigirl/220422766108?view=img_2)
+![기본 UI](https://eunhyel.github.io/image/Slot_1.png "기본 UI")
 
 
 Example code:
