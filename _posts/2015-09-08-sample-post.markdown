@@ -16,7 +16,7 @@ ___
 
 ![기본 UI](https://media.tenor.com/images/d0ec290f42262ac7e3425e22ef769350/tenor.png)
 
-![Slot](./asset/image/Slot1.png)
+![Slot](F:\eunhyel.github.io\assets\image\Slot1.png)
 
 
 Example code:
