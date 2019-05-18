@@ -14,10 +14,9 @@ ___
 ###  1. 기본 UI
 서버에서 보상 아이템 코드 받아와 보상 아이콘 및 아이템 이름 뿌려줌
 
-
 ![기본 UI](https://media.tenor.com/images/d0ec290f42262ac7e3425e22ef769350/tenor.png)
 
-![Slot](./Slot1.png)
+![Slot](./asset/image/Slot1.png)
 
 
 Example code:
