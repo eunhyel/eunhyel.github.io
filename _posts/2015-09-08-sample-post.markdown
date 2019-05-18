@@ -15,7 +15,7 @@ ___
 서버에서 보상 아이템 코드 받아와 보상 아이콘 및 아이템 이름 뿌려줌
 
 
-![기본 UI](F:\eunhyel.github.io\image\Slot_1.png "기본 UI")
+![기본 UI](F:/eunhyel.github.io/image/Slot_1.png "기본 UI")
 
 
 Example code:
