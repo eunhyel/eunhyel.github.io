@@ -28,5 +28,5 @@ sitemap:
         {% endfor %}
       </item>
     {% endfor %}
-  </channel><>
+  </channel>
 </rss>
